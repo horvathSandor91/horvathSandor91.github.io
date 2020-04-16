@@ -1,2 +1,1 @@
-# horvathSandor91.github.io
- 
+# my-own-personalized-portfolio
